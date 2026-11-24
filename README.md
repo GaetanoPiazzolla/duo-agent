@@ -34,7 +34,7 @@ flowchart LR
 ## Install
 
 ```sh
-git clone <this repo> && cd duo-agents
+git clone https://github.com/GaetanoPiazzolla/duo-agent.git && cd duo-agent
 ./install.sh
 ```
 
