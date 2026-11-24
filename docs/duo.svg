@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="470" viewBox="0 0 860 470" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<style>@keyframes type{0%,1.50%{width:0}8.50%,100%{width:860px}}#typerect{animation:type 20.0s steps(46,end) infinite}@keyframes k0{0%,11.00%{opacity:0}12.25%,96.00%{opacity:1}97.25%,100%{opacity:0}}.e0{opacity:0;animation:k0 20.0s linear infinite}@keyframes k1{0%,11.00%{opacity:0}12.25%,96.00%{opacity:1}97.25%,100%{opacity:0}}.e1{opacity:0;animation:k1 20.0s linear infinite}@keyframes k2{0%,17.00%{opacity:0}18.25%,96.00%{opacity:1}97.25%,100%{opacity:0}}.e2{opacity:0;animation:k2 20.0s linear infinite}@keyframes k3{0%,19.50%{opacity:0}20.75%,96.00%{opacity:1}97.25%,100%{opacity:0}}.e3{opacity:0;animation:k3 20.0s linear infinite}@keyframes k4{0%,25.00%{opacity:0}26.25%,66.00%{opacity:1}67.25%,100%{opacity:0}}.e4{opacity:0;animation:k4 20.0s linear infinite}@keyframes k5{0%,28.00%{opacity:0}29.25%,96.00%{opacity:1}97.25%,100%{opacity:0}}.e5{opacity:0;animation:k5 20.0s linear infinite}@keyframes k6{0%,31.50%{opacity:0}32.75%,96.00%{opacity:1}97.25%,100%{opacity:0}}.e6{opacity:0;animation:k6 20.0s linear infinite}@keyframes k7{0%,37.00%{opacity:0}38.25%,96.00%{opacity:1}97.25%,100%{opacity:0}}.e7{opacity:0;animation:k7 20.0s linear infinite}@keyframes k8{0%,40.00%{opacity:0}41.25%,96.00%{opacity:1}97.25%,100%{opacity:0}}.e8{opacity:0;animation:k8 20.0s linear infinite}@keyframes k9{0%,44.00%{opacity:0}45.25%,96.00%{opacity:1}97.25%,100%{opacity:0}}.e9{opacity:0;animation:k9 20.0s linear infinite}@keyframes k10{0%,47.50%{opacity:0}48.75%,96.00%{opacity:1}97.25%,100%{opacity:0}}.e10{opacity:0;animation:k10 20.0s linear infinite}@keyframes k11{0%,53.00%{opacity:0}54.25%,96.00%{opacity:1}97.25%,100%{opacity:0}}.e11{opacity:0;animation:k11 20.0s linear infinite}@keyframes k12{0%,56.50%{opacity:0}57.75%,96.00%{opacity:1}97.25%,100%{opacity:0}}.e12{opacity:0;animation:k12 20.0s linear infinite}@keyframes k13{0%,62.00%{opacity:0}63.25%,96.00%{opacity:1}97.25%,100%{opacity:0}}.e13{opacity:0;animation:k13 20.0s linear infinite}@keyframes k14{0%,66.00%{opacity:0}67.25%,78.00%{opacity:1}79.25%,100%{opacity:0}}.e14{opacity:0;animation:k14 20.0s linear infinite}@keyframes k15{0%,69.00%{opacity:0}70.25%,96.00%{opacity:1}97.25%,100%{opacity:0}}.e15{opacity:0;animation:k15 20.0s linear infinite}@keyframes k16{0%,73.00%{opacity:0}74.25%,96.00%{opacity:1}97.25%,100%{opacity:0}}.e16{opacity:0;animation:k16 20.0s linear infinite}@keyframes k17{0%,78.00%{opacity:0}80.00%,96.00%{opacity:1}98.00%,100%{opacity:0}}.e17{opacity:0;animation:k17 20.0s linear infinite}</style>
+<defs><clipPath id="type"><rect id="typerect" x="44" y="50" width="0" height="30"/></clipPath></defs>
+<rect width="860" height="470" rx="12" fill="#0d1117"/>
+<circle cx="24" cy="22" r="6" fill="#ff5f57"/>
+<circle cx="44" cy="22" r="6" fill="#febc2e"/>
+<circle cx="64" cy="22" r="6" fill="#28c840"/>
+<text x="430.0" y="27" fill="#7d8590" font-size="13" font-weight="normal" text-anchor="middle">herdr · my-api</text>
+<text x="24" y="70" fill="#3fb950" font-size="15" font-weight="bold" text-anchor="start">❯</text>
+<g clip-path="url(#type)"><text x="44" y="70" fill="#e6edf3" font-size="15" font-weight="normal" text-anchor="start">/duo-plan add rate limiting to the public API</text></g>
+<rect x="20" y="96" width="410" height="300" rx="8" fill="#161b22" stroke="#e8875f" stroke-opacity=".45"/>
+<circle cx="38" cy="119" r="5" fill="#e8875f"/>
+<text x="50" y="124" fill="#e8875f" font-size="14" font-weight="bold" text-anchor="start">claude</text>
+<text x="109.6" y="124" fill="#7d8590" font-size="13" font-weight="normal" text-anchor="start">scribe</text>
+<rect x="430" y="96" width="410" height="300" rx="8" fill="#161b22" stroke="#6ea8fe" stroke-opacity=".45"/>
+<circle cx="448" cy="119" r="5" fill="#6ea8fe"/>
+<text x="460" y="124" fill="#6ea8fe" font-size="14" font-weight="bold" text-anchor="start">antigravity</text>
+<text x="562.6" y="124" fill="#7d8590" font-size="13" font-weight="normal" text-anchor="start">reviewer</text>
+<text x="36" y="152" fill="#7d8590" font-size="14" font-weight="normal" text-anchor="start" class="e0">reading the code…</text>
+<text x="446" y="152" fill="#7d8590" font-size="14" font-weight="normal" text-anchor="start" class="e1">reading the code…</text>
+<text x="36" y="174" fill="#3fb950" font-size="14" font-weight="normal" text-anchor="start" class="e2">✓ draft written</text>
+<text x="446" y="174" fill="#3fb950" font-size="14" font-weight="normal" text-anchor="start" class="e3">✓ draft written</text>
+<text x="430.0" y="428" fill="#7d8590" font-size="13" font-weight="normal" text-anchor="middle" class="e4">phase 2 · they read each other&#x27;s draft and argue</text>
+<text x="446" y="218" fill="#e6edf3" font-size="14" font-weight="normal" text-anchor="start" class="e5">1. /export has no limit at all</text>
+<text x="446" y="240" fill="#e6edf3" font-size="14" font-weight="normal" text-anchor="start" class="e6">2. per-IP breaks behind the LB</text>
+<text x="36" y="218" fill="#3fb950" font-size="14" font-weight="normal" text-anchor="start" class="e7">ACCEPT 1</text>
+<text x="36" y="240" fill="#d29922" font-size="14" font-weight="normal" text-anchor="start" class="e8">COUNTER 2: key by API token</text>
+<text x="36" y="262" fill="#e6edf3" font-size="14" font-weight="normal" text-anchor="start" class="e9">3. you forgot Retry-After</text>
+<text x="36" y="284" fill="#e6edf3" font-size="14" font-weight="normal" text-anchor="start" class="e10">4. Redis is overkill here</text>
+<text x="446" y="284" fill="#3fb950" font-size="14" font-weight="normal" text-anchor="start" class="e11">ACCEPT 2, ACCEPT 3</text>
+<text x="446" y="306" fill="#f85149" font-size="14" font-weight="normal" text-anchor="start" class="e12">REJECT 4: we run 3 replicas</text>
+<text x="36" y="328" fill="#e6edf3" font-size="14" font-weight="normal" text-anchor="start" class="e13">still think in-memory is fine</text>
+<text x="430.0" y="428" fill="#7d8590" font-size="13" font-weight="normal" text-anchor="middle" class="e14">phase 3 · one plan</text>
+<text x="36" y="372" fill="#e8875f" font-size="14" font-weight="normal" text-anchor="start" class="e15">FINAL READY</text>
+<text x="446" y="372" fill="#3fb950" font-size="14" font-weight="normal" text-anchor="start" class="e16">APPROVED</text>
+<g class="e17"><rect x="20" y="408" width="820" height="40" rx="8" fill="#12261a" stroke="#3fb950" stroke-opacity=".6"/><text x="430.0" y="433" fill="#e6edf3" font-size="14" font-weight="normal" text-anchor="middle">✓ rate-limiting-plan.md   ·   1 open disagreement for you: Redis vs in-memory</text></g>
+</svg>

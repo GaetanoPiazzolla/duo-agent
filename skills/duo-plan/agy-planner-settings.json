@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "command(hc send)",
+      "command(ls)",
+      "command(pwd)",
+      "command(tree)",
+      "command(find)",
+      "command(cat)",
+      "command(head)",
+      "command(tail)",
+      "command(wc)",
+      "command(sort)",
+      "command(uniq)",
+      "command(cut)",
+      "command(file)",
+      "command(stat)",
+      "command(du)",
+      "command(grep)",
+      "command(rg)",
+      "command(git status)",
+      "command(git log)",
+      "command(git diff)",
+      "command(git show)",
+      "command(git branch)",
+      "command(git ls-files)",
+      "command(git rev-parse)",
+      "command(git blame)",
+      "command(git grep)"
+    ]
+  }
+}

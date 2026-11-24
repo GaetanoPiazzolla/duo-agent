@@ -1,0 +1,7 @@
+#!/bin/sh
+# Starts the Claude planner. hc terminals do not inherit the lead's environment,
+# so the lead leaves its Claude config dir in the project for us to pick up.
+here=$(cd "$(dirname "$0")/.." && pwd)
+f=.duo-plan/.claude-config-dir
+[ -s "$f" ] && export CLAUDE_CONFIG_DIR="$(cat "$f")"
+exec claude --settings "$here/claude-planner-settings.json" "$@"

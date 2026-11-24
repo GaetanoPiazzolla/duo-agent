@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hc send:*)",
+      "Edit(.duo-plan/**)",
+      "Write(.duo-plan/**)"
+    ]
+  }
+}
